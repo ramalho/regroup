@@ -1,5 +1,5 @@
-from random import shuffle
 from itertools import chain, cycle
+from random import shuffle
 
 
 def regroup(n, groups):
